@@ -1,27 +1,20 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# Deliberate Living Co
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## About
+A rework of Deliberate Living Co's website. Originally built using a Squarespace template, I rethought the page using Bootstrap. 
 
-## Getting Started
+## App View
+  * Home
+  ![Home](https://user-images.githubusercontent.com/20818309/32577394-06fb8312-c497-11e7-9312-8ee060b9d28e.png)
+  * About
+  ![About](https://user-images.githubusercontent.com/20818309/32577402-10580188-c497-11e7-8bfa-5cfe7ddaebc2.png)
+  * Services
+  ![Services](https://user-images.githubusercontent.com/20818309/32577403-13fe67aa-c497-11e7-839a-5641e4ba56e1.png)
+  * Portfolio
+  ![Portfolio](https://user-images.githubusercontent.com/20818309/32577409-16d8ae36-c497-11e7-95e8-2528368168d1.png)
+  * Contact
+  ![Contact](https://user-images.githubusercontent.com/20818309/32577414-1a9dacf6-c497-11e7-8ec7-f734363ff79d.png)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+## Techonologies
+* HTML & CSS
+* Bootstrap
